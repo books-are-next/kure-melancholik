@@ -1,0 +1,38 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Kuře melancholik",
+    "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
+    "author": "Josef K. Šlejhar",
+    "language": "cs",
+    "modified": "2021-11-30T09:12:12.127Z",
+    "Sigil version": "0.5.0"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/Section0002.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/Style0001.css"
+    }
+  ],
+  "toc": [
+    {
+      "title": "KUŘE MELANCHOLIK",
+      "href": "OEBPS/Text/Section0001.xhtml#heading_id_3"
+    }
+  ]
+}

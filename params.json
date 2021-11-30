@@ -1,0 +1,45 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Kuře melancholik",
+      "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
+      "author": "Josef K. Šlejhar",
+      "modified": "2021-11-30T09:12:12.127Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0001.md",
+        "xhtml": "Section0001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "section0002.md",
+        "xhtml": "Section0002.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/Style0001.css"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre2",
+      "sgc-1",
+      "sigilNotInTOC"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kure-melancholik"
+    },
+    "generatedAt": 1638263532287
+  }
+}
