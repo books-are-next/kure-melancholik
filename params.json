@@ -1,10 +1,67 @@
 {
+  "params": {
+    "metadata": {
+      "title": "Kuře melancholik",
+      "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
+      "author": "Josef K. Šlejhar",
+      "modified": "2021-11-30T09:12:12.127Z",
+      "languageCode": "cs",
+      "publisher": "Městská knihovna v Praze"
+    },
+    "elements": {
+      "title": "",
+      "subtitle": "",
+      "h2": "",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "",
+      "brAfter": "",
+      "blockquote": "",
+      "figure": "",
+      "em": "",
+      "strong": "",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "section0001.md",
+            "xhtml": "Section0001.xhtml",
+            "id": 0,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "section0002.md",
+            "xhtml": "Section0002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
   "epub": {
     "metadata": {
       "title": "Kuře melancholik",
       "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
       "author": "Josef K. Šlejhar",
-      "modified": "2021-11-30T09:12:12.127Z"
+      "modified": "2021-11-30T09:19:02.314Z"
     },
     "chapters": [
       {
@@ -40,6 +97,6 @@
       "user": "books-are-next",
       "repo": "kure-melancholik"
     },
-    "generatedAt": 1638263532287
+    "generatedAt": 1638263942529
   }
 }
