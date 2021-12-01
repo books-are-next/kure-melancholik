@@ -6,7 +6,9 @@
       "author": "Josef K. Šlejhar",
       "modified": "2021-11-30T09:12:12.127Z",
       "languageCode": "cs",
-      "publisher": "Městská knihovna v Praze"
+      "publisher": "Městská knihovna v Praze",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "",
@@ -61,7 +63,7 @@
       "title": "Kuře melancholik",
       "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
       "author": "Josef K. Šlejhar",
-      "modified": "2021-12-01T21:16:11.352Z"
+      "modified": "2021-12-01T21:59:52.477Z"
     },
     "chapters": [
       {
@@ -97,6 +99,6 @@
       "user": "books-are-next",
       "repo": "kure-melancholik"
     },
-    "generatedAt": 1638393371569
+    "generatedAt": 1638395992669
   }
 }

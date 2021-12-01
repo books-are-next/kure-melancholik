@@ -1,14 +1,16 @@
 {
   "author": "Josef K. Šlejhar",
-  "identifier": "slejhar-kure-melancholik-55ed1a4",
+  "edition": "beletrie",
+  "identifier": "slejhar-kure-melancholik-6c7a3dd",
   "languagecode": "cs",
   "modified": "2021-11-30T09:12:12.127Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Kuře melancholik",
-  "revision": "55ed1a4",
+  "revision": "6c7a3dd",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:17:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393421621
+    "date": "Wed Dec 01 2021 22:00:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638396045524
   },
   "documents": [
     {
@@ -61,9 +63,9 @@
   ],
   "totals": {
     "all": {
-      "words": 15646,
-      "chars": 93951,
-      "ideas": 252
+      "words": 15648,
+      "chars": 93962,
+      "ideas": 254
     },
     "chapters": {
       "words": 15635,

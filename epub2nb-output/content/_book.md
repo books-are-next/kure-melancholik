@@ -9,6 +9,8 @@ meta:
   modified: '2021-11-30T09:12:12.127Z'
   languageCode: cs
   publisher: Městská knihovna v Praze
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
   - section0002.html
   - colophon.html
