@@ -61,7 +61,7 @@
       "title": "Kuře melancholik",
       "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
       "author": "Josef K. Šlejhar",
-      "modified": "2021-12-01T17:08:55.712Z"
+      "modified": "2021-12-01T21:16:11.352Z"
     },
     "chapters": [
       {
@@ -97,6 +97,6 @@
       "user": "books-are-next",
       "repo": "kure-melancholik"
     },
-    "generatedAt": 1638378535897
+    "generatedAt": 1638393371569
   }
 }

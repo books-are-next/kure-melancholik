@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-51299ec';
+const CACHE = 'cache-55ed1a4';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./section0002.html","./scripts/bundle.js","./fonts/Literata-var.woff2","./fonts/Literata-Italic-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/LiterataTT-TextSemibold.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./section0002.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
