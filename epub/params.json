@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Kuře melancholik",
@@ -6,7 +7,9 @@
       "author": "Josef K. Šlejhar",
       "modified": "2021-11-30T09:12:12.127Z",
       "languageCode": "cs",
-      "publisher": "Městská knihovna v Praze"
+      "publisher": "Městská knihovna v Praze",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "",
@@ -102,3 +105,4 @@
     "generatedAt": 1638263532287
   }
 }
+
