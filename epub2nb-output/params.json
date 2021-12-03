@@ -33,6 +33,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "section0001.md",
@@ -51,8 +52,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Osudy nás všech..."
           }
         ]
       }
@@ -63,7 +65,7 @@
       "title": "Kuře melancholik",
       "identifier": "urn:uuid:1b2d054e-c8aa-4395-9a1d-eba7f8a57f5b",
       "author": "Josef K. Šlejhar",
-      "modified": "2021-12-01T21:59:52.477Z"
+      "modified": "2021-12-03T07:54:51.776Z"
     },
     "chapters": [
       {
@@ -99,6 +101,6 @@
       "user": "books-are-next",
       "repo": "kure-melancholik"
     },
-    "generatedAt": 1638395992669
+    "generatedAt": 1638518091961
   }
 }
