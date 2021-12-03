@@ -16,8 +16,12 @@ readingOrder:
   - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: section0002.html
+        title: Osudy nás všech...
+        hiddenTitle: true
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
