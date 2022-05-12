@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - section0002.html
   - colophon.html
 tocBase:
