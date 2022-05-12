@@ -1,5 +1,6 @@
 ---
 hiddenTitle: true
+contentType: prose
 ---
 
 Osudy nás všech jsou

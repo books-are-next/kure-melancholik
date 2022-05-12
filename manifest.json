@@ -1,16 +1,22 @@
 {
-  "author": "Josef K. Šlejhar",
-  "edition": "beletrie",
-  "identifier": "slejhar-kure-melancholik-dd6ca4a",
-  "languagecode": "cs",
-  "modified": "2021-11-30T09:12:12.127Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Kuře melancholik",
-  "revision": "dd6ca4a",
+  "author": "Josef K. Šlejhar",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "slejhar-kure-melancholik-505c644",
+  "revision": "505c644",
+  "readingOrder": [
+    "section0002.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Dec 03 2021 07:55:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638518142642
+    "date": "Thu May 12 2022 10:38:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351881191
   },
   "documents": [
     {
@@ -34,11 +40,11 @@
       ]
     },
     {
-      "title": "Tiráž • Kuře melancholik",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 6,
-      "chars": 37,
-      "ideas": 3,
+      "words": 1,
+      "chars": 5,
+      "ideas": 1,
       "role": "colophon",
       "order": null,
       "prev": "section0002.html",
@@ -50,22 +56,15 @@
           "name": "Tiráž",
           "id": null,
           "children": []
-        },
-        {
-          "index": 1,
-          "level": 1,
-          "name": "Josef K. Šlejhar",
-          "id": "josef-k-šlejhar",
-          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 15648,
-      "chars": 93962,
-      "ideas": 254
+      "words": 15643,
+      "chars": 93930,
+      "ideas": 252
     },
     "chapters": {
       "words": 15635,
