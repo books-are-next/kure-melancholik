@@ -3,6 +3,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 Osudy nás všech jsou
 
 jednotny. A my všichni
@@ -496,3 +498,5 @@ Povstalo tu děcko na lůžku. Vidělo v tmě a slyšelo v tichu smrtelných sv�
 Kuře se znepokojilo, zatípalo a úžeji se přisunulo k mrtvému děcku.
 
 Venku se již šeřilo. Byl to zasmušilý, hluboký úsvit ranní blížícího se podzimu. Odrážejíc se od tmavé, zmodralé a ještě nízké oblohy, prosvěcujíc řídkým jakoby odstřelujícím se leskem z východu a zdola nabírajíc prázdného zasmušilého odstínu, nabyla krajina vzhledu rozervaného mramoru. Tonulo všechno v jakémsi tajuplném olivovém zášeří, jitřními mlhami ovátém. Zařinčel po silnici vůz. A na voze křičí zástup zpitých lidí, mávají rukama a chechtají se. Jedou kamsi na jarmark. Vpředu chlap divě a bezustání bije do koní a nějaká mladá zpustlá ženština necudně sápe ho za oděv. Zmizeli v mlze.-
+
+</section>
