@@ -8,7 +8,8 @@
       "languageCode": "cs",
       "publisher": "Městská knihovna v Praze",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "",
@@ -100,6 +101,6 @@
       "user": "books-are-next",
       "repo": "kure-melancholik"
     },
-    "generatedAt": 1655271473178
+    "generatedAt": 1655364210469
   }
 }
