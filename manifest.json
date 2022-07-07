@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "slejhar-kure-melancholik-3aef84d",
-  "revision": "3aef84d",
+  "identifier": "slejhar-kure-melancholik-7021c3d",
+  "revision": "7021c3d",
   "readingOrder": [
     "promo.html",
     "section0002.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:12:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979152356
+    "date": "Thu Jul 07 2022 08:33:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182797654
   },
   "documents": [
     {
@@ -41,7 +41,7 @@
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -54,11 +54,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 1,
       "chars": 5,
       "ideas": 1,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "section0002.html",
       "next": null,
