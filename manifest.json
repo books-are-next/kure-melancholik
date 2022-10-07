@@ -8,16 +8,16 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "slejhar-kure-melancholik-a058a21",
-  "revision": "a058a21",
+  "identifier": "slejhar-kure-melancholik-f225028",
+  "revision": "f225028",
   "readingOrder": [
     "promo.html",
     "section0002.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:57:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924274437
+    "date": "Fri Oct 07 2022 14:04:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151462933
   },
   "documents": [
     {
